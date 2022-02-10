@@ -28,7 +28,7 @@
     "lodash": "^4.17.15",
     "marked": "^0.8.0",
     "moment": "^2.23.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "node-sass-utils": "^1.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
