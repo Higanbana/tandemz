@@ -14,7 +14,7 @@
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
-    "gatsby": "^2.18.24",
+    "gatsby": "^2.32.13",
     "gatsby-cli": "^2.8.27",
     "gatsby-plugin-google-gtag": "^1.1.20",
     "gatsby-plugin-html-attributes": "^1.0.5",
